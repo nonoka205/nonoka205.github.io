@@ -1,0 +1,32 @@
+body{
+    max-width:800px;
+    margin:0 auto;
+    padding: 40px 20px;
+    font-family:"Hiragino Sans", "Noto Sans JP", sans-serif;
+    line-height:1.8;
+    color: #333333;
+    background-color:#fafafa;
+}
+
+h1{
+    font-size: 40px;
+    color: #1f3a5f;
+    margin-bottom: 0;
+}
+
+h2{
+    font-size: 24px;
+    color: #1f3a5f;
+    border-left: 5px solid #e07a3f;
+    padding-left: 10px;
+    margin-top: 48px
+}
+
+ul{
+    padding-left: 20px;
+}
+
+li{
+    margin-bottom:8px;
+}
+
